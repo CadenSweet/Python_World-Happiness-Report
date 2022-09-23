@@ -12,8 +12,8 @@ The one I decided to use was from the World Happiness Report, which is a survey 
 ## Objective
 
 Since this was the final project for my program, I was to use all the skills I have developed to analyze and wrangle the data. 
-Then, using Tableau, I created a storyboard to present my findings.
+Then, using Tableau, I created a storyboard to present my findings. The visualization can be found [here.](https://public.tableau.com/app/profile/caden.sweet/viz/WorldHappinessReportAnalysisCareerFoundryFinalProject/FullAnalysis?publish=yes)
 
 ## Data
 
-The World Happiness Report data set came from their [website](https://worldhappiness.report/)
+The World Happiness Report data set came from their [website.](https://worldhappiness.report/)
